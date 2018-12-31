@@ -1,0 +1,5 @@
+<resources>
+
+    <item name="activity_weather" type="layout">@layout/activity_main_twopane</item>
+
+</resources>
